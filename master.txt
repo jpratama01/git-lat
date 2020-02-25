@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 master
-=======
-asdf
->>>>>>> Update master.txt

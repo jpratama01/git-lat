@@ -16,10 +16,13 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+[Jekyll](https://jekyllrb.com/)
+
 1. [Visualiasi latihan git](https://learngitbranching.js.org/)
 2. [Markdown](https://www.markdownguide.org/basic-syntax/)
 3. [Freecodecamp](https://www.freecodecamp.org/)
 4. [Reactjs](https://reactjs.org/docs/create-a-new-react-app.html)
+5. [Jekyll](https://jekyllrb.com/)
 
 **Bold** and _Italic_ and `Code` text
 

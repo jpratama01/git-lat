@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Dokumentasi Latihan Git
 
 You can use the [editor on GitHub](https://github.com/jpratama01/le-git/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

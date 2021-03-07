@@ -28,7 +28,7 @@ Syntax highlighted code block
 8. git pull
 
 1. [Visualiasi latihan git](https://learngitbranching.js.org/)
-2. [Markdown](https://www.markdownguide.org/basic-syntax/)
+2. [Markdown](https://guides.github.com/features/mastering-markdown/)
 3. [Freecodecamp](https://www.freecodecamp.org/)
 4. [Reactjs](https://reactjs.org/docs/create-a-new-react-app.html)
 5. [Jekyll](https://jekyllrb.com/)

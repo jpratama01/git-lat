@@ -1,30 +1,31 @@
-## Dokumentasi Latihan Git
+# Dokumentasi Latihan
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 1. GIT
 
-### Markdown
+1. **git clone**
+   "Melakukan penyalinan kode sumber dari repo ke lokal".    
+3. **git status**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+5. **git branch -a**
+
+6. **git checkout -b develop**
+
+7. **git add .**
+
+8. **git commit -m "<pesan>"**
+
+9. **git  push**
+
+10. **git pull**
+
+## 2. React
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+npx create-react-app my-app
+cd my-app
+npm start
 ```
-
-1. git clone
-2. git status
-3. git branch -a
-4. git checkout -b develop
-5. git add .
-6. git commit -m "<pesan>"
-7. git  push
-8. git pull
+## 3. Referensi
 
 1. [Visualiasi latihan git](https://learngitbranching.js.org/)
 2. [Markdown](https://guides.github.com/features/mastering-markdown/)
@@ -32,5 +33,3 @@ Syntax highlighted code block
 4. [Reactjs](https://reactjs.org/docs/create-a-new-react-app.html)
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)

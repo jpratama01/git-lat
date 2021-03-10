@@ -1,8 +1,8 @@
-# Dokumentasi Latihan
+# _Dokumentasi Latihan_
 
 ## 1. GIT
 
-1. `git clone` "Melakukan penyalinan kode sumber dari repo ke lokal".    
+1. `git clone` **"Melakukan penyalinan kode sumber dari repo ke lokal".**
 2. `git status`
 3. `git branch -a`
 4. `git checkout -b develop`
@@ -24,5 +24,3 @@ npm start
 2. [Markdown](https://guides.github.com/features/mastering-markdown/)
 3. [Freecodecamp](https://www.freecodecamp.org/)
 4. [Reactjs](https://reactjs.org/docs/create-a-new-react-app.html)
-
-**Bold** and _Italic_ and `Code` text

@@ -2,21 +2,14 @@
 
 ## 1. GIT
 
-1. **git clone**
-   "Melakukan penyalinan kode sumber dari repo ke lokal".    
-3. **git status**
-
-5. **git branch -a**
-
-6. **git checkout -b develop**
-
-7. **git add .**
-
-8. **git commit -m "<pesan>"**
-
-9. **git  push**
-
-10. **git pull**
+1. `git clone` "Melakukan penyalinan kode sumber dari repo ke lokal".    
+2. `git status`
+3. `git branch -a`
+4. `git checkout -b develop`
+5. `git add .`
+6. `git commit -m "<pesan>"`
+7. `git  push`
+8. `git pull`
 
 ## 2. React
 

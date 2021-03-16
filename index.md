@@ -3,7 +3,7 @@
 ## 1. GIT
 
 1. `git clone` **"Melakukan penyalinan kode sumber dari repo ke lokal".**
-2. `git status`
+2. `git status` **"Untuk mengetahui status"**
 3. `git branch -a`
 4. `git checkout -b develop`
 5. `git add .`

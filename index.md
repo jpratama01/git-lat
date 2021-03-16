@@ -4,7 +4,7 @@
 
 1. `git clone` **"Melakukan penyalinan kode sumber dari repo ke lokal".**
 2. `git status`
-3. `git branch -a`
+3. `git branch -a` **"Melihat seluruh cabang baik lokal atau remote".**
 4. `git checkout -b develop`
 5. `git add .`
 6. `git commit -m "<pesan>"`

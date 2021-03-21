@@ -1,7 +1,7 @@
 # _Dokumentasi Latihan_
 
 ## Pesan
-Minggu, 21 Mar 2021 : Install Xampp
+Untuk hari Senin 22 Mar 2021 jam 9.00 : Di cmd bikin folder **apprestapi** lalu **npm init**.https://www.youtube.com/watch?v=AsH0TJxwjmc&list=PLH1gH0TmFBBiJuXv9YuzRoM9yuZtUHbhu&index=3
 
 ## 1. GIT
 

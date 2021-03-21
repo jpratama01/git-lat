@@ -1,5 +1,8 @@
 # _Dokumentasi Latihan_
 
+## Pesan
+Minggu, 21 Mar 2021 : Install Xampp
+
 ## 1. GIT
 
 1. `git clone` **"Melakukan penyalinan kode sumber dari repo ke lokal".**

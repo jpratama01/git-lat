@@ -6,7 +6,9 @@
 2. State
 3. Functional Component
 4. Class Component
-#### Bisa pelajari dulu dari bagian referensi di bawah. Untuk point2 di atas jika ada yang ingin ditanyakan silahkan ketik di bawah ini termasuk materi nodejs sebelumnya :
+
+Bisa pelajari dulu dari bagian referensi di bawah. Untuk point2 di atas jika ada yang ingin ditanyakan silahkan ketik di bawah ini termasuk materi nodejs sebelumnya :
+
 1. Pertanyaan 1 :
 2. Pertanyaan 2 :
 3. dst

@@ -2,10 +2,11 @@
 
 ## 0. Pesan
 ### - Untuk Materi React Dasarnya ada :
-1. Props
-2. State
-3. Functional Component
-4. Class Component
+(Silahkan dengan kata - kata sendiri berikan definisi dari poin2 di ini)
+1. Props adalah ...
+2. State adalah ...
+3. Functional Component adalah ...
+4. Class Component adalah ...
 
 Bisa pelajari dulu dari bagian referensi di bawah. Untuk point2 di atas jika ada yang ingin ditanyakan silahkan ketik di bawah ini termasuk materi nodejs sebelumnya :
 

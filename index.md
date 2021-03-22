@@ -1,9 +1,9 @@
 # _Dokumentasi Latihan_
 
 ## 0. Pesan
-### - Untuk hari Senin 22 Mar 2021 jam 9.00 :
-1. Di cmd bikin folder **apprestapi** lalu `npm init` seperti yang di [Youtube](https://www.youtube.com/watch?v=AsH0TJxwjmc&list=PLH1gH0TmFBBiJuXv9YuzRoM9yuZtUHbhu&index=3).
-2. `npm install --save express mysql body-parser`.
+### - Dokumentasi hari Senin 22 Mar 2021 jam 9.00 :
+1. https://github.com/banyucenter/apprestapi.git
+2. https://github.com/banyucenter/reactJSLoginJWT.git
 
 ## 1. GIT
 

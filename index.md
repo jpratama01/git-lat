@@ -1,6 +1,16 @@
 # _Dokumentasi Latihan_
 
 ## 0. Pesan
+### - Untuk Materi React Dasarnya ada :
+1. Props
+2. State
+3. Functional Component
+4. Class Component
+Bisa pelajari dulu dari bagian referensi di bawah. Untuk point2 di atas jika ada yang ingin ditanyakan silahkan ketik di bawah ini termasuk materi nodejs sebelumnya :
+a. Pertanyaan 1 :
+b. Pertanyaan 2 :
+c. dst
+
 ### - Dokumentasi hari Senin 22 Mar 2021 jam 9.00 :
 1. https://github.com/banyucenter/apprestapi.git
 2. https://github.com/banyucenter/reactJSLoginJWT.git
@@ -30,3 +40,4 @@ npm start
 3. [Freecodecamp](https://www.freecodecamp.org/)
 4. [Reactjs](https://reactjs.org/docs/create-a-new-react-app.html)
 5. [Nodejs](https://www.youtube.com/watch?v=_t3pUzdaRx4&list=PLH1gH0TmFBBiJuXv9YuzRoM9yuZtUHbhu&index=1)
+6. [Ipung Dev](https://www.youtube.com/watch?v=_t3pUzdaRx4&list=PLH1gH0TmFBBiJuXv9YuzRoM9yuZtUHbhu)

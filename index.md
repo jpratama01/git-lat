@@ -7,9 +7,9 @@
 3. Functional Component
 4. Class Component
 Bisa pelajari dulu dari bagian referensi di bawah. Untuk point2 di atas jika ada yang ingin ditanyakan silahkan ketik di bawah ini termasuk materi nodejs sebelumnya :
-a. Pertanyaan 1 :
-b. Pertanyaan 2 :
-c. dst
+1. Pertanyaan 1 :
+2. Pertanyaan 2 :
+3. dst
 
 ### - Dokumentasi hari Senin 22 Mar 2021 jam 9.00 :
 1. https://github.com/banyucenter/apprestapi.git

@@ -1,0 +1,7 @@
+ Props adalah inputan yang dijadikan sebagai passing data layaknya sebagai parameter sebuah function yang bertujuan untuk menjadikan web menjadi dinamis
+
+ state termasuk komponen yang bersifat private yang artinya data state hanya tersedia untuk componen itu sendiri dan tidak bisa diakses dari komponen lain.
+
+ Functional Component atau mungkin kerangka fungsi sama halnya seperti membuat function di js
+
+ Class Component yang sama dengan Functional Component tetapi lebih ringkas jika menggunakan Functional componen
